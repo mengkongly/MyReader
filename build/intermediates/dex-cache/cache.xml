@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_69a177bcba89d74c9a41ece1c933edb0f7b79041.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_95098ad12c0e204b9259a681a662edc8af7f94d4.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.5.0_dd58a0be118f7299ccb61ae802eb653c91a1796c.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_158fe17f181ad3f25ad468487c8449d6fb701995.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_de611d40562a6180e401a7748045624cec1750f9.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd0730717fcd70ec880c94156a37370aa7ca6d51">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-2.3.0_f56641675d20ced5a9cf9c4eeff20ec43e5914a9.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_f57e1763967972e2a157825366e491410f9c7140.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3f0a05ca4f61dc6aa48970bf865609141498bc94.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_2bcebb4ed8705b76dcc74f346a5f2b0cb3f81922.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_7c8618c5d2e89d4888c4c814ca9ca9a1783b9bf8.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_5423d31abe3142ad4f2ba2c3c6cd6baaf790e133.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_4508ecf5a314b5397fb99f077afb05664f0d6315.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_c5b08c39dcc4eaab02acf7875af364ae4d29426a.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_72a189bde3edabb7bfd0193195f2470d6f2d73b9.jar" />
+    </item>
+    <item
+        jar="E:\Android_Studio\2017\MyReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Android_Studio\2017\MyReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_c61bcfadeab870b59d07f75b8afcb0ae88e74a7a.jar" />
+    </item>
+
+</items>
